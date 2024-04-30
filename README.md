@@ -5,3 +5,4 @@
 <li>Download java version specified for the os requirements</li>
 <li>Extract compressed files from downloaded folder</li>
 <li>Adding directory to the enviroment variables (.bashrc) to complete the installtion to make java availabe in the next login</li>
+<image src="Task 1.png"></image>
