@@ -1,4 +1,4 @@
-<h1>This is Bash Scipt automates the creation of user on linux based OS and the installation of Java </h1>
+<h1>This is Bash Script automates the creation of user on linux based OS and the installation of Java </h1>
 <h3>This Script Handles:</h3>
 <li>The creation of new user (pet-clinic)</li>
 <li>Setting Password to this specific user</li>
